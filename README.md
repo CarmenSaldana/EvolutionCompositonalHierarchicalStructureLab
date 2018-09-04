@@ -4,7 +4,7 @@ This text file explains the supporting data file containing the languages that e
 
 `SKTS2018_languages.xlsx` contains 8 spreadsheets, divided in groups of 4. Each group belongs to one experiment, and each sheet to the data of an experimental transmission chain.  Sheets that belong to Experiment 1 are named `Exp1` and marked red; those that belong to Experiment 2, are named `Exp2` and marked blue. 
 
-### Descriptions of the column headings for each sheet in `SKTS2018_languages.xlsx` are as follows: 
+### Descriptions of the column headings for each sheet in _SKTS2018_languages.xlsx_ are as follows: 
 
 - `Meaning` : the meaning the descriptions refer to. (PFV stands for perfective or terminated aspect; its absence, indicate imperfective or ongoing aspect.) 
 
