@@ -1,4 +1,6 @@
-# The evolution of compositional hierarchical structure in the lab: experimental data sets
+# The evolution of compositional hierarchical structure in the lab: experimental data sets 
+[![DOI](https://zenodo.org/badge/147381554.svg)](https://zenodo.org/badge/latestdoi/147381554)
+
 
 This text file explains the supporting data files containing the languages that evolved in the iterated learning experiments 1 and 2 in the submitted manuscript 'Compositional hierarchical structure evolves through cultural transmission: an experimental study’. You can find the code used to run the experiments in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`] and the picture frames necessary to display the event stims split into two files: _stimFrames1.zip_ and _stimFrames2.zip_.
 
