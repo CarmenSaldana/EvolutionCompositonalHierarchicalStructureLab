@@ -1,6 +1,6 @@
 # The evolution of compositional hierarchical structure in the lab: experimental data sets
 
-This text file explains the supporting data files containing the languages that evolved in the iterated learning experiments 1 and 2 in the submitted manuscript 'Compositional hierarchical structure evolves through cultural transmission: an experimental study’. You can find the code used to run the experiment in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`] and the picture frames necessary to display the event stims in _stimFrames1.zip_ and _stimFrames1.zip_ (you should combine them in a folder named _All_frames_).
+This text file explains the supporting data files containing the languages that evolved in the iterated learning experiments 1 and 2 in the submitted manuscript 'Compositional hierarchical structure evolves through cultural transmission: an experimental study’. You can find the code used to run the experiments in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`] and the picture frames necessary to display the event stims in _stimFrames1.zip_ and _stimFrames1.zip_.
 
 `SKTS2018_languages` contains 8 spreadsheets. Each spreadsheet belongs to a transmission chain.  Sheets that belong to Experiment 1 are named `Exp1` and  those that belong to Experiment 2, are named `Exp2`. Descriptions of the column headings for each sheet are as follows: 
 
