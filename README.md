@@ -8,6 +8,6 @@ This text file explains the supporting data files containing the languages that 
 
 - `Initial Language` : the randomised initial language used to train the first generation of the transmission chain 
 
-- `Generation 1` : the language produced by the first generation in the transmission chain. Generation 1 is trained on a randomly selected set of items from the initial language (44 in Exp 1 and 40 in Exp 2).
+- `Generation 1` : the language produced by the first generation in the transmission chain. Generation 1 is trained on a randomly selected set of items from the initial language (44 in Exp1 and 40 in Exp2).
  
-- `Generation 2 to 8` : the language produced by the corresponding generation (2 to 8) in the transmission chain. Each generation is trained on a randomly selected set of items from the previous generation (44 in Exp 1 and 40 in Exp 2 and Exp3).
+- `Generation 2 to 8` : the language produced by the corresponding generation (2 to 8) in the transmission chain. Each generation is trained on a randomly selected set of items from the previous generation (44 in Exp1 and 40 in Exp2).
