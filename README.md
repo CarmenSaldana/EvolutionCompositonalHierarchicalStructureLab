@@ -1,8 +1,8 @@
 # The evolution of compositional hierarchical structure in the lab: experimental data sets
 
-This text file explains the supporting data file containing the languages that evolved in the iterated learning experiments 1 and 2 in the submitted manuscript 'Compositional hierarchical structure evolves through cultural transmission: an experimental study’. You can find the code used to run the experiment in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`]
+This text file explains the supporting data files containing the languages that evolved in the iterated learning experiments 1 and 2 in the submitted manuscript 'Compositional hierarchical structure evolves through cultural transmission: an experimental study’. You can find the code used to run the experiment in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`]
 
-`SKTS2018_languages` contains 8 spreadsheets, divided in groups of 4. Each group belongs to one experiment, and each sheet to the data of an experimental transmission chain.  Sheets that belong to Experiment 1 are named `Exp1` and marked red; those that belong to Experiment 2, are named `Exp2` and marked blue. Descriptions of the column headings for each sheet are as follows: 
+`SKTS2018_languages` contains 8 spreadsheets. Each spreadsheet belongs to a transmission chain.  Sheets that belong to Experiment 1 are named `Exp1` and  those that belong to Experiment 2, are named `Exp2`. Descriptions of the column headings for each sheet are as follows: 
 
 - `Meaning` : the meaning the descriptions refer to. (PFV stands for perfective or terminated aspect; its absence, indicate imperfective or ongoing aspect.) 
 
