@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/147381554.svg)](https://zenodo.org/badge/latestdoi/147381554)
 
 
-This text file explains the supporting data files containing the languages that evolved in the iterated learning experiments 1 and 2 in the submitted manuscript 'Compositional hierarchical structure evolves through cultural transmission: an experimental study’. You can find the code used to run the experiments in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`] and the picture frames necessary to display the event stims split into two files: _stimFrames1.zip_ and _stimFrames2.zip_.
+This text file explains the supporting data files containing the languages that evolved in the iterated learning experiments 1 and 2 in [Saldana et al (2019)](https://academic.oup.com/jole/article/4/2/83/5499169?guestAccessKey=0cec6c43-beeb-47d4-b586-d8897ce444a4). You can find the code used to run the experiments in _Experiments.zip_[`Python 2.7`, `PsychoPy v1.82.01`] and the picture frames necessary to display the event stims split into two files: _stimFrames1.zip_ and _stimFrames2.zip_.
 
 `SKTS2018_languages` contains 8 spreadsheets. Each spreadsheet belongs to a transmission chain.  Sheets that belong to Experiment 1 are named `Exp1` and  those that belong to Experiment 2, are named `Exp2`. Descriptions of the column headings for each sheet are as follows: 
 
